@@ -1,0 +1,7 @@
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\bin\Debug\Giraffe.exe.config
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\bin\Debug\Giraffe.exe
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\bin\Debug\Giraffe.pdb
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\obj\Debug\Giraffe.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\obj\Debug\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\obj\Debug\Giraffe.exe
+C:\Users\Sean\Desktop\Programming\Csharp\Learning\C-Sharp-Testing\Tutorials\Giraffe\Giraffe\obj\Debug\Giraffe.pdb
